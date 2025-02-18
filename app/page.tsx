@@ -99,3 +99,4 @@ export default function Home() {
     </div>
   );
 }
+// DATABASE_URL="postgresql://neondb_owner:npg_OSrl26tEFaWJ@ep-silent-butterfly-a89rdt1e-pooler.eastus2.azure.neon.tech/neondb?sslmode=require"
